@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+  padding-bottom: 30px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  color: #66BFBF;
+
+}
+
+h3 {
+  color: #11999E;
+  font-weight: bold;
+  font-size: 1.1rem;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+
+
+.subtitle {
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 140px;
+  font-family: 'Sacramento', cursive;
+  font-size: 2.3rem;
+  position: absolute;
+  left: 650px;
+  top: 280px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  position: relative;
+  text-align: left;
+}
+
+
+
+p {
+  color: #40514E;
+  font-family: serif;
+  font-weight: bold;
+
+}
+
+p1 {
+  color: #40514E;
+  font-family: serif;
+  font-weight: bold;
+
+}
+
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 180px;
+  padding-bottom: 0;
+  position: relative;
+}
+
+.bottom-container {
+  margin-top: 60px;
+  padding: 50px;
+  border: solid auto  #66BFBF;
+  border-radius: 5px;
+  background-color: #66BFBF;
+}
+
+.rahul {
+  margin-top: 80px;
+  width: 175px;
+  height: 210px;
+}
+
+.code-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.codebottom-img {
+  float: right;
+  margin-left: 30px;
+  width: 28%
+}
+
+
+
+span {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 380px;
+  top: 440px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 380px;
+  top: 100px;
+}
+
+.mountain {
+  position: relative;
+  bottom: 0;
+}
+
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border: dotted 10px;
+  border-top: 0;
+  border-width: 6px;
+  border-color: #eeeeee;
+  width: 2.5%;
+  margin: 100px auto;
+}
+
+.btn {
+  font-family: sans-serif;
+  border: outset auto #11999E;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: #11999E;
+  color: white;
+  padding: 10px 20px;
+}
+
+.contact-text {
+  margin-top: 20;
+  margin-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.footer-link {
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #11999E;
+}
+
+nav{
+  font-family: monospace;
+  font-size: 13.5px;
+  word-spacing: 30px;
+  font-weight: bold;
+}
+
+.hr-bottom {
+  margin-top: 120px;
+}
+
+.cpr {
+  color: white;
+  font-size: 10px;
+}
